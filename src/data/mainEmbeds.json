@@ -1,0 +1,32 @@
+[
+  {
+    "id": "qm9h03rqwx8",
+    "title": "Funções - Rec & Mig",
+    "description": "ᯇ      Hierarquia   @﹒⟡﹒🧧﹒DIRETOR﹒  Responsável geral da área, onde sua responsabilidade é manter uma gestão organizada e uma área ativa e empenhada.  @﹒⟡﹒🌻﹒LÍDER﹒  Sua função é organizar a sua equipe, administrar a sua equipe, mantendo todas as dúvidas sanadas.  @﹒⟡﹒🍁﹒SUB LÍDER﹒  Auxiliam no que o líder precisar.  @﹒⟡﹒🦋﹒GERENTES﹒  Responsáveis por cuidar dos supervisores, auxiliando os sub lideres.  @﹒⟡﹒❄️﹒SUPERVISORES﹒  Responsáveis por cuidar de staff normais, auxiliando eles e sanando dúvidas que podem existir.  ᯇ      Rec & Mig  @﹒⟡﹒ ☂️﹒Verificado﹒  Pessoas que possuem esse cargo, estão aptos para recrutar novos membros para a staff, sendo internamente quanto externamente.  @﹒⟡﹒🌺﹒Migração﹒  Pessoas que possuem esse cargo, possuem permissão de fazerem migrações sem a presença de alguém da gestão da área, os demais que não possuírem esse cargo, não podem fazer migração sem a supervisão de uma pessoa da gestão.",
+    "image": "https://cdn.discordapp.com/attachments/1322852103730761788/1328965130846994523/267_Sem_Titulo_20250111225622.png?ex=67889eba&is=67874d3a&hm=ffb82c5ce73586dd5549c6dd57ca3af1d5b84ce5155dfad5eee5b56235d78d70&",
+    "channelId": "1327009595033391216",
+    "createdAt": "2025-01-15T09:49:41.596Z",
+    "updatedAt": "2025-01-15T09:49:41.596Z",
+    "navigationEmbeds": [
+      {
+        "id": "937d80eb-62a5-4715-a668-092b0d4419d6",
+        "title": "Análise de Ticket",
+        "description": "<:blue_aa:1320882432651690037>  Análise de Ticket <:blue_aa:1320882432651690037>   <a:blue_setinhafofa:1320882497696960712> O que é esse relatório? <:h_pontoazul:1320883861642674288> Esse relatório será um meio de aumentarmos a qualidade de nosso recrutamento, dando recompensas para aqueles que realizam o recrutamento de forma excepcional.  <a:blue_setinhafofa:1320882497696960712> Como vai funcionar? <:h_pontoazul:1320883861642674288> Os gerentes da área irão avaliar o seu recrutamento via ticket, atribuindo uma nota de 0 a 10. A avaliação será baseada em 4 comportamentos, sendo que cada comportamento realizado corretamente vale 2,5 pontos. Os comportamentos são:  <:blue_nk:1320882557008613510> - Formalidade <:h_pontoazul:1320883861642674288> Após clicar em atender o ticket, ao invés de mandar \"opa, qual sua idade e área?\", o correto seria mandar \"Boa noite, fico feliz que deseja entrar para a nossa staff. Irei te mandar um formulário, e você deve preenchê-lo e me enviar aqui mesmo, ok?\"  <:blue_nk:1320882557008613510> - Explicação via mensagem encaminhada <:h_pontoazul:1320883861642674288> As explicações sobre as áreas devem ser encaminhadas via ticket e mensagem privada para o recrutado. Caso não saiba como encaminhar a mensagem, basta ir no canal ⁠🧨・encaminhar﹒ , Após a explicação, pergunte se o recrutado possui alguma dúvida referente à área e à staff. Lembrem-se de mandar também o texto do canal ⁠🧩・geral﹒ , não importa a área do escolhido. A embed que consta nesse canal é a explicação da forma de up e como funciona a nossa staff, sendo de extrema importância.  <:blue_nk:1320882557008613510> - Verificação de URL na bio <:h_pontoazul:1320883861642674288> Antes de atribuir o cargo de staff, o recrutado deve ter a URL da Zodiacs na bio, no pronome ou no status. É responsabilidade do recrutador pedir para o recrutado colocar a URL e jamais encerrar um recrutamento sem que isso tenha sido feito.  <:blue_nk:1320882557008613510> - Finalização de Ticket <:h_pontoazul:1320883861642674288> Após o recrutado colocar a URL no perfil, encerre o ticket com: \"Seja bem-vindo(a) à staff! Caso tenha dúvidas no futuro, pode me chamar no privado ou algum responsável da sua área para auxiliar você.\"",
+        "image": "https://cdn.discordapp.com/attachments/1322852103730761788/1328954192504557568/270_Sem_Titulo.png?ex=6788948a&is=6787430a&hm=7689aee639793075c42c77e19f6c13c103092dde4358acb4f0effef71a1d7a62&",
+        "channelId": "1327009595033391216",
+        "createdAt": "2025-01-15T09:19:31.111Z",
+        "updatedAt": "2025-01-15T09:19:31.111Z"
+      }
+    ],
+    "buttons": [
+      {
+        "id": "qjubi2tiza",
+        "label": "Análise de Ticket",
+        "style": "PRIMARY",
+        "mainEmbedId": "1327009595033391216",
+        "navigationEmbedId": "937d80eb-62a5-4715-a668-092b0d4419d6",
+        "position": 0
+      }
+    ]
+  }
+]
